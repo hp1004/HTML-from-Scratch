@@ -1,12 +1,14 @@
 # HTML-from-Scratch
 
-HTML stands for Hyper text markup launguage
+>HTML stands for Hyper text markup launguage
 
-#Hypertext-- hypertext is a text which contains links to other texts
+>#Hypertext-- hypertext is a text which contains links to other texts
 
-#Markup Launguage is a computer programming launguage that uses tags to define elements within a document
+>#Markup Launguage is a computer programming launguage that uses tags to define elements within a document
 
-#DOCTTYPE-- Doctype declaration is an instruction to the web browser about what version of HTML the page is written in.
+>#DOCTTYPE-- Doctype declaration is an instruction to the web browser about what version of HTML the page is written in.
+
+
 ---
 
 #BASICS:--
