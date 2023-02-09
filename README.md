@@ -75,4 +75,7 @@
     ii) An inline element does not start on a new line.
 
         An inline element only takes up as much width as necessary.--- <span>
+                      
+                      
+---                   
 *LEARN More:- https://www.w3schools.com/html/
