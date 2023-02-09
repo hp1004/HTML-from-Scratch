@@ -7,6 +7,7 @@ HTML stands for Hyper text markup launguage
 #Markup Launguage is a computer programming launguage that uses tags to define elements within a document
 
 #DOCTTYPE-- Doctype declaration is an instruction to the web browser about what version of HTML the page is written in.
+---
 
 #BASICS:--
 
